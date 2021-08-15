@@ -144,6 +144,9 @@ __webpack_require__.r(__webpack_exports__);
       }, {
         title: "Companies",
         route: "/v1/dashboard/companies"
+      }, {
+        title: "Home",
+        route: "/"
       }]
     };
   },
@@ -233,6 +236,10 @@ __webpack_require__.r(__webpack_exports__);
   icon: "mdi-one-up",
   title: "Companies",
   href: "/v1/dashboard/companies"
+}, {
+  icon: "mdi-one-up",
+  title: "Home",
+  href: "/"
 }]);
 
 /***/ }),

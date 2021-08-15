@@ -18,5 +18,10 @@ export default [
         icon: "mdi-one-up",
         title: "Companies",
         href: "/v1/dashboard/companies"
+    },
+    {
+        icon: "mdi-one-up",
+        title: "Home",
+        href: "/"
     }
 ];

@@ -114,6 +114,10 @@ export default {
           title: "Companies",
           route: "/v1/dashboard/companies",
         },
+        {
+          title: "Home",
+          route: "/",
+        },
       ],
     };
   },
